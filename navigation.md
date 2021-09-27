@@ -13,13 +13,12 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
-[publicações](publicacoes.md)
-- - - -
+
 [philpapers](https://philpeople.org/profiles/marcio-miotto)
 - - - -
 [sobre](sobre.md)
 - - - -
-[askemata](askemata.github.io)
+[askemata](https://askemata.github.io)
 
 
 [gimmick:theme](readable)
