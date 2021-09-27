@@ -7,12 +7,15 @@
 <meta name="citation_firstpage" content="11761">
 <meta name="citation_pdf_url" content="http://www.example.com/content/271/20/11761.full.pdf">
 
-askemata - recursos internet para humanidades
-======== 
+recursos web para Humanas
+========================
+
 
 
 Recursos
-----------
+--------
+
+
 Note: Recursos web públicos, gratuitos e *open source* de interesse para pesquisadores em ciências humanas.  
 
 Voltar para o [index](https://askemata.github.io).
