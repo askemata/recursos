@@ -1,4 +1,4 @@
-# askemata
+# askemata-recursos
 
 
 [conteúdos]()
@@ -18,5 +18,8 @@
 [philpapers](https://philpeople.org/profiles/marcio-miotto)
 - - - -
 [sobre](sobre.md)
+- - - -
+[askemata](askemata.github.io)
+
 
 [gimmick:theme](readable)
