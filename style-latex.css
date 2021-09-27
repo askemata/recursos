@@ -102,19 +102,23 @@ p {
   text-align: justify;
 }
 
+h1, h2, h3 {
+  font-family: 'Latin Modern', 'Libertinus', Georgia, Cambria, 'Times New Roman', Times, serif;
+}
+
 /* Make links red */
-a,
+h1 a, h2 a, h3 a, a,
 a:visited {
   color: #0070b7;
   text-decoration: none;
 }
 
-a:hover {
+h1 a, h2 a, h3 a, a:hover {
   color: #d86d4e;
   text-decoration: underline;
 }
 
-a:focus {
+h1 a, h2 a, h3 a, a:focus {
   outline-offset: 2px;
   outline: 2px solid hsl(220, 90%, 52%);
 }
