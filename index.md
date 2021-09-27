@@ -16,7 +16,7 @@ Recursos
 --------
 
 
-Note: Recursos web públicos, gratuitos e *open source* de interesse para pesquisadores em ciências humanas.  
+Recursos *web* públicos, gratuitos e *open source* de interesse para pesquisadores em ciências humanas.  
 
 Voltar para o [index](https://askemata.github.io).
 
