@@ -1,13 +1,13 @@
 <meta name="citation_title" content="Askemata: referências em ciências humanas">
 <meta name="citation_author" content="Miotto, M.">
-<meta name="citation_date" content="2021/04/01">
+<meta name="citation_date" content="2021/09/01">
 <meta name="citation_journal_title" content="(site web)">
-<meta name="citation_volume" content="271">
+<meta name="citation_volume" content="0">
 <meta name="citation_issue" content="20">
-<meta name="citation_firstpage" content="11761">
-<meta name="citation_pdf_url" content="http://www.example.com/content/271/20/11761.full.pdf">
+<meta name="citation_firstpage" content="0">
+<meta name="citation_pdf_url" content="https://askemata.github.io/recursos1/">
 
-recursos web para Humanas
+Recursos *web* para Humanidades
 ========================
 
 

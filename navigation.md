@@ -16,8 +16,6 @@
 
 [philpapers](https://philpeople.org/profiles/marcio-miotto)
 - - - -
-[sobre](sobre.md)
-- - - -
 [askemata](https://askemata.github.io)
 
 
