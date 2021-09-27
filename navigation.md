@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style-latex.css" />
+
 # askemata-recursos
 
 
