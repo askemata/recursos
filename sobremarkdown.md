@@ -1,6 +1,5 @@
 <title>Askemata</title>
 
-<!--METATAGS-->
 <meta name="citation_title" content="Askemata (website)">
 <meta name="citation_author" content="Miotto, M.">
 <meta name="citation_journal_title" content="Askemata (website)">
