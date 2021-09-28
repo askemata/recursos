@@ -20,6 +20,9 @@ Imagine o leitor um mundo no qual a Internet faz parte da vida das pessoas e o r
 
 Se é assim, seria possível dizer que as redes sociais não apenas "ampliam" as ações humanas, mas de alguma forma também as condicionam. Eis o ponto de Lanier: nas redes sociais, não somos propriamente clientes ou usuários, pois por vezes a maior parte dos serviços não é paga. Mas se não é paga, *quem então paga*, e quem é o cliente? Entramos num tema bastante difundido: se não pagamos, é porque nós é que somos o produto. 
 
+"Somos o produto"
+-------------
+
 Mas há mais: não se trata apenas de ser "usado". Lanier diz que o uso das redes sociais, especialmente nas novas gerações, condiciona hábitos de pensar, mobiliza emoções, posturas corporais, noções de orientação e esquemas de pensamento. Por assim dizer, estamos vendo emergir um novo tipo de "pessoa", ancorada desde criança em aparatos tecnológicos que possuem dono e cujos modos de usar - e hábitos a adquirir - são previamente prescritos. 
 
 Esse argumento já é antigo e perpassou autores como Pierre Levy, dentre vários outros. Mas ainda não enfrentamos todas as suas consequências, especialmente após os eventos da *Cambridge Analytica*[^2]. No momento em que escrevo isso, um novo aplicativo (o *FaceApp*) oferece fotos simpáticas enquanto prevê a captura de dados privados para usos [não esclarecidos](https://canaltech.com.br/apps/faceapp-e-uma-prova-de-que-nao-estamos-prontos-para-pensar-sobre-privacidade-144523/), em pleno ano de 2020 e próximo da reeleição de Trump. Se o argumento é perigoso, basta lembrar que o simples uso dos aplicativos de rede social permitiram que a *Cambridge Analytica* vendesse um produto bastante consistente para seus clientes[^3], baseado nos hábitos de mais de 7 milhões de pessoas. Para certas previsões estatísticas, é uma população e tanto. 
