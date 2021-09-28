@@ -29,6 +29,9 @@ Esse argumento já é antigo e perpassou autores como Pierre Levy, dentre vário
 
 O argumento de Lanier, de que as redes tornam as pessoas mais objetos do que sujeitos, inverteu uma das maiores promessas da internet. Há 15 anos, acreditava-se que a internet poderia fornecer liberdade às pessoas. É aí que entram outras gerações e relações com a *web*, e de onde desponta o nome de Aaron Swartz. 
 
+Markdown
+-------------
+
 ![](http://geocities.ws/askesis/imagens/markdown.png) Swartz criou, junto com a linguagem Markdown, uma série de outras coisas que marcaram a internet, como a linguagem [RSS](https://pt.wikipedia.org/wiki/RSS), os direitos *[Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons)* e sites como o Reddit. Se hoje sites como a Biblioteca Genesys e o Sci-Hub estão ativos e pregam liberdade de pensamento, Swartz foi pioneiro desses movimentos quando baixou o banco de dados JSTOR, que cobrava o acesso de milhões de artigos acadêmicos. Esse episódio acabou envolvendo Swartz num esquema de assédio e criminalização que levaram à sua morte, ainda em 2013. A internet perdeu um de seus maiores gênios (vale conhecer sua história, por exemplo nesse [livro](https://www.theguardian.com/books/2016/mar/04/boy-who-could-change-the-world-review-aaron-schwartz) ou nesse [documentário](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz)), mas que deixou diversos legados. 
 
 Um desses legados é a linguagem Markdown. Ela é uma simplificação de outras linguagens, cujos princípios podem ser vistos [aqui](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/) e [aqui](http://www.if.ufrgs.br/fis01069/sintaxemarkdown.html). Em resumo: é um código que abrevia formatações e permite maior fluidez do texto. 
