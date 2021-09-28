@@ -46,6 +46,9 @@ Outra vantagem é a possibilidade de que um único documento possa ser exportado
 
 Afinal, se o recurso permite um espaço a mais de liberdade, então é válido. 
 
+Notas
+-------------
+
 [^1]: (1) LANIER, J. *Dez Argumentos para você deletar agora suas Redes Sociais*. RJ: Intrinseca, 2018.
 
 [^2]: (2) CADWALLDR, Carole. ‘I made Steve Bannon’s psychological warfare tool’: meet the data war whistleblower. *The Guardian*, 18/3/2018 https://www.theguardian.com/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-bannon-trump
