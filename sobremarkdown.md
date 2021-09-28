@@ -1,6 +1,6 @@
-<title>Askemata</title>
+<title>Sobre o Markdown e as ciências humanas</title>
 
-<meta name="citation_title" content="Askemata (website)">
+<meta name="citation_title" content="Sobre o Markdown e as ciências humanas">
 <meta name="citation_author" content="Miotto, M.">
 <meta name="citation_journal_title" content="Askemata (website)">
 <meta name="citation_volume" content="0">
@@ -9,7 +9,8 @@
 <meta name="citation_pdf_url" content="http://askemata.github.io">
 
 
-# Sobre o *Markdown* e as Ciências Humanas
+Sobre o *Markdown* e as Ciências Humanas
+=====================
 
 <img src="imagens/lanier.png" style="float: left; padding: 15px;" alt="Um gato acompanha o livro Dez Teses para Abandonar as Redes Sociais, de Jaron Lanier">Imagine o leitor um mundo no qual a Internet faz parte da vida das pessoas e o recurso à rede é incontornável. Esse mundo é o nosso, certo? Mas então conviria lembrar de um dos (vários) argumentos de Jaron Lanier sobre as redes sociais[^1]: os inúmeros suportes dados por essas redes poderiam dar a impressão de um uso ampliado da cognição humana e uma maior liberdade de agir; mas se é assim, o que dizer sobre o uso político das redes sociais tal como feito no *Brexit* e na eleição de Trump (dentre outros), impetratos pela *Cambridge Analytica*? É como dizer que as redes sociais, tão propiciadoras da liberdade, seriam responsáveis também e especialmente pela alienação e a emergência de novos regimes populistas. Não à toa, termos como "pós-verdade" e *fake news* passaram a fazer parte do cotidiano de qualquer pessoa. 
 
