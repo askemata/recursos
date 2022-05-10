@@ -124,7 +124,7 @@ h1 a, h2 a, h3 a, a:focus {
   outline: 2px solid hsl(220, 90%, 52%);
 }
 
-li {
+ul {
   font-family: 'Latin Modern', 'Libertinus', Georgia, Cambria, 'Times New Roman', Times, serif;
   font-size: 1.3rem;
   line-height: 1.5
