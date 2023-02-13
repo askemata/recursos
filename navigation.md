@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://latex.now.sh/style.css">
+<link rel="stylesheet" href="https://askemata.github.io/style-latex.css">
 
 # recursos em ciências humanas
 
