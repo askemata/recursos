@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://askemata.github.io/style-latex.css">
+<link rel="stylesheet" href="style-latex.css">
 
 # recursos em ciências humanas
 
