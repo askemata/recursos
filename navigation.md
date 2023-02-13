@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style-latex.css">
 
 # recursos em ciências humanas
 
@@ -24,4 +23,4 @@
   
 
 
-[gimmick:theme](cerulean)
+[gimmick:theme](readable)
