@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style-latex.css" />
+<!-- <link rel="stylesheet" type="text/css" href="style-latex.css" /> -->
 
 # askemata-recursos
 
@@ -14,11 +14,6 @@
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
-
-
-[philpapers](https://philpeople.org/profiles/marcio-miotto)
-- - - -
-[askemata](https://askemata.github.io)
 
 
 [gimmick:theme](readable)

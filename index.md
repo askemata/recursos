@@ -58,6 +58,21 @@ Linux
 
 - [Boomaga](http://www.boomaga.org/download/): impressora virtual
 
+Markdown 
+----- 
+
+- [Markdownguide](https://www.markdownguide.org/getting-started/): Guia básico de Markdown
+- [Dillinger](https://dillinger.io/): editor online de Markdown
+- [Leanpub](https://leanpub.com/create/book): o site permite publicar livros com arquivos-base em Markdown.
+- [Relato](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca) de um autor que publicou seu livro apenas com ferramentas de código livre.
+- Markdown no Mac: [MacDown](https://www.markdownguide.org/tools/macdown/), [IA Writer](https://www.markdownguide.org/tools/ia-writer/), [Marked 2](https://www.markdownguide.org/tools/marked-2/)
+- Markdown no Linux: [ReText](https://github.com/retext-project/retext) (excelente) e [ghostwriter](https://wereturtle.github.io/ghostwriter/) (excelente)
+
+Navegadores
+----- 
+
+- [Falkon](https://userbase.kde.org/Falkon): navegador ultra-leve para sistemas em geral, especialmente para sistemas linux antigos
+
 
 
 Processadores de texto 
@@ -65,6 +80,9 @@ Processadores de texto
 
 - [FreeOffice](https://www.freeoffice.com/pt/) 
 - [LibreOffice](https://pt-br.libreoffice.org/) 
+
+## Pandoc
+- [Pandoc](https://pandoc.org/installing.html) é um poderoso instrumento de exportação de arquivos em diversos formatos.
 
 
 Zotero 
