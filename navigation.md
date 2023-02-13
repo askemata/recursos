@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://askemata.github.io/style-latex.css">
 
 # recursos em ciências humanas
 
@@ -23,4 +24,4 @@
   
 
 
-[gimmick:theme](readable)
+[gimmick:theme](bootstrap)
