@@ -1,4 +1,4 @@
-# askemata-recursos
+# recursos em ciências humanas
 
 
 [conteúdos]()
@@ -12,6 +12,11 @@
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
+
+  [askemata](http://askemata.github.io)
+  - - - -
+  [askesis](http://askesis.hypotheses.org)
+  
 
 
 [gimmick:theme](readable)
