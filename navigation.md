@@ -20,7 +20,7 @@
   - - - -
 [askesis](http://askesis.hypotheses.org)
   - - - -
-[gimmick:themechooser](Choose theme)
+[gimmick:themechooser](escolher tema)
   
 
 
