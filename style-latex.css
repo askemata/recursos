@@ -101,6 +101,7 @@ html {
 
 body {
   font-family: 'Latin Modern', 'Libertinus', Georgia, Cambria, 'Times New Roman', Times, serif;
+  font-size: 1.3em;
 }
 
 /* Justify and hyphenate all paragraphs */
