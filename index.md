@@ -16,7 +16,7 @@ Recursos
 --------
 
 
-Note: Este site compartilha recursos *web* públicos, gratuitos e *open source* de interesse para pesquisadores em ciências humanas.  Os recursos visam tanto o acesso a material, quanto à leitura e escritura.
+Note: Este site compartilha recursos *web* públicos, gratuitos e *open source* de interesse para alunos e pesquisadores em ciências humanas.  Os recursos visam tanto o acesso a material, quanto à leitura e escrita. Busca-se reunir tanto material básico para alunos ingressantes, quanto informações úteis para pesquisadores. *Work in Progress*.
 
 Voltar para o [index](https://askemata.github.io).
 
@@ -25,8 +25,8 @@ Voltar para o [index](https://askemata.github.io).
 
 
 
-Dicionários 
------ 
+Dicionários
+-----
 
 - [Dict.cc](https://www.dict.cc/): alemão
 - [Google Translator](https://translate.google.com/): diversos
@@ -35,31 +35,31 @@ Dicionários
 - [Transliterate](http://transliterate.com/): transliteração grego-latim
 
 
-Diretórios 
------ 
+Diretórios
+-----
 
-- [Z-library](https://z-lib.org/) 
+- [Z-library](https://z-lib.org/)
 
 
-Ferramentas Web 
------ 
+Ferramentas Web
+-----
 
-- [Awesome Academic Writing](https://maehr.github.io/awesome-academic-writing/) 
-- [MdWiki](http://dynalon.github.io/mdwiki/#!index.md) 
+- [Awesome Academic Writing](https://maehr.github.io/awesome-academic-writing/)
+- [MdWiki](http://dynalon.github.io/mdwiki/#!index.md)
 - [Stylo](https://stylo.huma-num.fr): confecção e exportação em Markdown
 
 Latex
------ 
+-----
 
-- [Tipografia para Latex](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends) 
+- [Tipografia para Latex](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)
 
-Linux 
------ 
+Linux
+-----
 
 - [Boomaga](http://www.boomaga.org/download/): impressora virtual
 
-Markdown 
------ 
+Markdown
+-----
 
 - [Markdownguide](https://www.markdownguide.org/getting-started/): Guia básico de Markdown
 - [Dillinger](https://dillinger.io/): editor online de Markdown
@@ -69,26 +69,26 @@ Markdown
 - Markdown no Linux: [ReText](https://github.com/retext-project/retext) (excelente) e [ghostwriter](https://wereturtle.github.io/ghostwriter/) (excelente)
 
 Navegadores
------ 
+-----
 
 - [Falkon](https://userbase.kde.org/Falkon): navegador ultra-leve para sistemas em geral, especialmente para sistemas linux antigos
 
 
 
-Processadores de texto 
------ 
+Processadores de texto
+-----
 
-- [FreeOffice](https://www.freeoffice.com/pt/) 
-- [LibreOffice](https://pt-br.libreoffice.org/) 
+- [FreeOffice](https://www.freeoffice.com/pt/)
+- [LibreOffice](https://pt-br.libreoffice.org/)
 
 ## Pandoc
 - [Pandoc](https://pandoc.org/installing.html) é um poderoso instrumento de exportação de arquivos em diversos formatos.
 
 
-Zotero 
------ 
+Zotero
+-----
 
-- [ZoteroBib](https://zbib.org): Gerador instantâneo de bibliografia baseado no Zotero. 
+- [ZoteroBib](https://zbib.org): Gerador instantâneo de bibliografia baseado no Zotero.
 - [Plugins](https://www.zotero.org/support/plugins): Lista de Plugins para Zotero.
 - [Zotfile](http://zotfile.com/): manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items
 
@@ -97,4 +97,3 @@ Zotero
 > René Char, La Bibliothèque est en feu (1956)
 
 Achtung! A lista de menus, acima, distribui o conteúdo. (*Work in progress*)
-

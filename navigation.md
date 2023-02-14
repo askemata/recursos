@@ -26,4 +26,4 @@
 
 
 
-[gimmick:theme](bootstrap)
+[gimmick:theme](readable)
