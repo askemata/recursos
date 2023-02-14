@@ -16,12 +16,14 @@
   * [SubMenu Item 3](subitem3.md)
 
 
+[como imprimir](comoimprimir.md)
+  - - - -
 [askemata](http://askemata.github.io)
   - - - -
 [askesis](http://askesis.hypotheses.org)
   - - - -
 [gimmick:themechooser](escolher tema)
-  
+
 
 
 [gimmick:theme](bootstrap)
