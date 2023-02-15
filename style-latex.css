@@ -158,7 +158,8 @@ li {
 @media print {
   .menu,
   .banner,
-  .useSideMenu { display: none; }
+  .useSideMenu
+  .SideMenu { display: none; }
  }
 
  @media print {
