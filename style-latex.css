@@ -148,7 +148,7 @@ li {
 @media print {
 
   .panel>.list-group .list-group-item, .panel, .list-group,
-  .list-group-item, .visible-xs.visible-sm, .visible-sm, .visible-xs, sm, xs, #header-widgets, nav, aside.mashsb-container,
+  .list-group-item, #md-page-menu, .visible-xs.visible-sm, .visible-sm, .visible-xs, sm, xs, #header-widgets, nav, aside.mashsb-container,
 .sidebar, .mashshare-top, .mashshare-bottom,
 .content-ads, .make-comment, .author-bio,
 .heading, .related-posts, #decomments-form-add-comment,
