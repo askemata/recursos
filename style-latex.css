@@ -146,7 +146,13 @@ li {
 }
 
 @media print {
-  aside {
+
+  #header-widgets, nav, aside.mashsb-container,
+.sidebar, .mashshare-top, .mashshare-bottom,
+.content-ads, .make-comment, .author-bio,
+.heading, .related-posts, #decomments-form-add-comment,
+#breadcrumbs, #footer, .post-byline, .meta-single,
+.site-title img, .post-tags, .readability, aside {
     display: none;
   }
   article {
@@ -177,7 +183,9 @@ li {
   .menu,
   .banner,
   .useSideMenu,
-  .SideMenu { display: none; }
+  .SideMenu,
+  .bs-sidebar,
+  .nav { display: none; }
  }
 
  @media print {
