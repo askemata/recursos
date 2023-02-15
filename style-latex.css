@@ -161,6 +161,9 @@ li {
     padding:0!important;
     margin:0!important;
   }
+  body {
+font: 12pt;
+}
 }
 @page {
   margin: 2cm;
