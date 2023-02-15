@@ -146,12 +146,30 @@ li {
 }
 
 @media print {
+  aside {
+    display: none;
+  }
+  article {
+    width:100%!important;
+    padding:0!important;
+    margin:0!important;
+  }
+}
+@page {
+  margin: 2cm;
+}
+
+
+@media print {
   * {
       background: transparent;
       color: #000;
       text-shadow: none;
       filter: none;
+      aside: none;
+      SideMenu: none;
      -ms-filter: none;
+
   }
 }
 
