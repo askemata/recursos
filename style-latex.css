@@ -95,7 +95,7 @@
 
 /* Make default font-size 1rem and add smooth scrolling to anchors */
 html {
-  font-size: 1.2rem;
+  font-size: 1rem;
   scroll-behavior: smooth;
 }
 
@@ -133,14 +133,14 @@ h1 a, h2 a, h3 a, a:focus {
 
 ul {
   font-family: 'Latin Modern', 'Libertinus', Georgia, Cambria, 'Times New Roman', Times, serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.5
 
 }
 
 li {
   font-family: 'Latin Modern', 'Libertinus', Georgia, Cambria, 'Times New Roman', Times, serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.5
 
 }
@@ -158,7 +158,7 @@ li {
 @media print {
   .menu,
   .banner,
-  .useSideMenu
+  .useSideMenu,
   .SideMenu { display: none; }
  }
 
