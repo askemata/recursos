@@ -25,12 +25,6 @@
 * Font setup
 ******************************************************************************/
 
-/*
-@import url('https://fonts.googleapis.com/css?family=Barlow');
-@import url('https://fonts.googleapis.com/css?family=PS+Sans');
-@import url('https://fonts.googleapis.com/css?family=Belleza');
-*/
-
 @font-face {
   font-family: 'Latin Modern';
   font-style: normal;
@@ -132,10 +126,7 @@ body {
     background-color: white;
     color: black;
     font-size: 20px;
-    font-family: 'Linux Libertine', 'Optima';
-    /* font-family: Optima; */
-    /* font-family: Barlow; */
-    /* font-family: 'PT Sans', sans-serif; */
+    font-family: 'Latin Modern', 'Libertinus', 'Linux Libertine', 'Optima';
     text-align: justify;
     line-height: 1.25;
     border: 0px;
