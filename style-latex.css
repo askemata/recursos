@@ -166,7 +166,8 @@ font: 12pt;
 }
 }
 @page {
-  margin: 2cm;
+  size: A5;
+  margin: 1.5cm 1.2cm 1.5cm 1.2cm;
 }
 
 
