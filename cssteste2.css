@@ -1,0 +1,84 @@
+/* Define a font-face rule for Latin Modern */
+@font-face {
+  font-family: 'Latin Modern';
+  src: url('https://fonts.googleapis.com/css?family=Latin+Modern+Roman&display=swap');
+}
+
+/* Set the body font family and color */
+body {
+  font-family: 'Latin Modern', serif;
+  color: #333;
+}
+
+/* Define a class for section headings */
+.section {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 2em;
+}
+
+/* Define a class for subsection headings */
+.subsection {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+/* Define a class for paragraphs */
+p {
+  font-size: 1em;
+  line-height: 1.4;
+  margin: 1em 0;
+}
+
+/* Define a class for inline code snippets */
+code {
+  font-family: monospace;
+  background-color: #f7f7f7;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+/* Define a class for blockquotes */
+blockquote {
+  font-style: italic;
+  border-left: 2px solid #ccc;
+  padding-left: 1em;
+  margin-left: 1em;
+}
+
+/* Define a class for links */
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@media print {
+  /* A4 */
+  @page {
+    size: A4;
+    margin: 2cm;
+  }
+
+  body {
+    font-family: "Computer Modern", sans-serif;
+    font-size: 12pt;
+  }
+
+  /* A5 */
+  @page :left {
+    size: A4 landscape;
+    transform: scale(0.5);
+    transform-origin: top left;
+  }
+
+  @page :right {
+    size: A4 landscape;
+    transform: scale(0.5);
+    transform-origin: top right;
+  }
+}
