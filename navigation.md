@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="cssteste2.css">
+<link rel="stylesheet" href="cssteste.css">
 
 # recursos em ciências humanas
 
