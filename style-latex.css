@@ -162,12 +162,12 @@ li {
     margin:0!important;
   }
   body {
-font: 13pt;
+font: 1.3em;
 }
 }
 @page {
-  size: A4;
-  margin: 1.5cm 1.2cm 1.5cm 1.2cm;
+
+  margin: 2em;
 }
 
 
