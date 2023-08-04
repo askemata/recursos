@@ -12,7 +12,7 @@
   font-display: swap;
   src: url('https://askemata.github.io/recursos/fonts/LM-regular.woff2') format('woff2'),
     url('https://askemata.github.io/recursos/fonts/LM-regular.woff') format('woff'),
-    url('https://askemata.github.io/recursos/LM-regular.ttf') format('truetype');
+    url('https://askemata.github.io/recursos/fonts/LM-regular.ttf') format('truetype');
 }
 
 @font-face {
