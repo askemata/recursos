@@ -10,9 +10,9 @@
   font-style: normal;
   font-weight: normal;
   font-display: swap;
-  src: url('https://askemata.github.io/recursos/LM-regular.woff2') format('woff2'),
-    url('https://askemata.github.io/recursos/LM-regular.woff') format('woff'),
-    url('https://askemata.github.io/recursos/LM-regular.ttf') format('truetype');
+  src: url('LM-regular.woff2') format('woff2'),
+    url('LM-regular.woff') format('woff'),
+    url('LM-regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -20,9 +20,9 @@
   font-style: italic;
   font-weight: normal;
   font-display: swap;
-  src: url('https://askemata.github.io/recursos/LM-italic.woff2') format('woff2'),
-    url('https://askemata.github.io/recursos/LM-italic.woff') format('woff'),
-    url('https://askemata.github.io/recursos/LM-italic.ttf') format('truetype');
+  src: url('LM-italic.woff2') format('woff2'),
+    url('LM-italic.woff') format('woff'),
+    url('LM-italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -30,9 +30,9 @@
   font-style: normal;
   font-weight: bold;
   font-display: swap;
-  src: url('https://askemata.github.io/recursos/LM-bold.woff2') format('woff2'),
-    url('https://askemata.github.io/recursos/LM-bold.woff') format('woff'),
-    url('https://askemata.github.io/recursos/LM-bold.ttf') format('truetype');
+  src: url('LM-bold.woff2') format('woff2'),
+    url('LM-bold.woff') format('woff'),
+    url('LM-bold.ttf') format('truetype');
 }
 
 @font-face {
@@ -40,9 +40,9 @@
   font-style: italic;
   font-weight: bold;
   font-display: swap;
-  src: url('https://askemata.github.io/recursos/LM-bold-italic.woff2') format('woff2'),
-    url('https://askemata.github.io/recursos/LM-bold-italic.woff') format('woff'),
-    url('https://askemata.github.io/recursos/LM-bold-italic.ttf') format('truetype');
+  src: url('LM-bold-italic.woff2') format('woff2'),
+    url('LM-bold-italic.woff') format('woff'),
+    url('LM-bold-italic.ttf') format('truetype');
 }
 
 @font-face {
